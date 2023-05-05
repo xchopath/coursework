@@ -5,13 +5,13 @@
 ##### Add Node to Middle
 
 ```sh
-g++ single-linked-list-add-node-to-middle.cpp -o single-linked-list-add-node-to-middle
+g++ add-node-to-middle.cpp -o add-node-to-middle
 ```
 
 ##### Delete Middle Node
 
 ```sh
-g++ single-linked-list-delete-middle-node.cpp -o single-linked-list-delete-middle-node
+g++ delete-middle-node.cpp -o delete-middle-node
 ```
 
 ### Run Binary
@@ -19,7 +19,7 @@ g++ single-linked-list-delete-middle-node.cpp -o single-linked-list-delete-middl
 ##### Add Node to Middle
 
 ```sh
-./single-linked-list-add-node-to-middle
+./add-node-to-middle
 ```
 
 ```
@@ -35,7 +35,7 @@ Final linked list:
 ##### Delete Middle Node
 
 ```sh
-./single-linked-list-delete-middle-node
+./delete-middle-node
 ```
 
 ```
