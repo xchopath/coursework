@@ -1,3 +1,5 @@
+// mii-temp-1.labs.novr.one
+
 var xhr = new XMLHttpRequest();
 var url = 'http://mii-temp-1.labs.novr.one/api/v1/check';
 xhr.open('GET', url, true);
